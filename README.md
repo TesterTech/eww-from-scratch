@@ -7,7 +7,7 @@
   - I put a colors.sccc in dot_cache/wal/ directory so you could use that temporarily.
  
 # Monitors (hyprland.conf)
-## See https://wiki.hyprland.org/Configuring/Monitors/
+```## See https://wiki.hyprland.org/Configuring/Monitors/
 general {
     # See https://wiki.hyprland.org/Configuring/Variables/ for more
     ###
@@ -23,3 +23,4 @@ general {
 #     monitor=HDMI-A-2,1600x1200@60,auto,auto
     #monitor=DP-1,5120x2160@50,auto,1.30
 }
+```
